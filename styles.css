@@ -15,3 +15,20 @@ img {
     font-size: 18px;
     color: darkred;
 }
+
+.recipe-ol {
+    font-size: 20px;
+    color: darkcyan;
+}
+
+#pancakebody {
+    background-color: azure;
+}
+
+#quichebody {
+    background-color: aqua;
+}
+
+#wafflebody {
+     background-color: aquamarine;
+}
